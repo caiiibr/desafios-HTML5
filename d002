@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Coffee.ico.ico" type="image/x-icon">
+    <!-- escolher a tag link com opção favicon-->
+    <title>Imagens </title>
+</head> 
+
+<body>
+  <h1>Desafio das imagens</h1>  
+  <p>Inserir imagen em HTML é muito simples, tanto no conteúdo quanto lá em cima como ícone de favoritos!</p>
+  <p>Aqui vamos testar o uso de uma imagem de um café.</p>
+  <img src="coffee.jpg" alt="">
+</body>
+</html>
